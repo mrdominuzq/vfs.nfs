@@ -26,7 +26,7 @@
 #include <stdint.h>
 #include <string>
 
-#include <platform/threads/mutex.h>
+#include <mutex>
 
 #include "kodi/kodi_vfs_types.h"
 
