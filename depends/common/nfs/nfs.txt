@@ -1,1 +1,1 @@
-nfs http://mirrors.xbmc.org/build-deps/sources/libnfs-1.6.0.tar.gz
+nfs https://github.com/sahlberg/libnfs/archive/libnfs-2.0.0.tar.gz
